@@ -16,7 +16,7 @@ public class NewClass {
     
     public String tipliMetod() {
         System.out.println("bu String  tipli metoddur");
-        return "SALAM SERXAN:)" ;
+        return "SALAM NUBAR:)" ;
     }
     public static void main(String[] args) {
         NewClass nc=new NewClass();
